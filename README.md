@@ -1,6 +1,6 @@
 __ESTRUTURA__
 
-
+O repositório contém 2 códigos de python, um, "DinamicaManipulador", para a realização da dinâmica do nosso manipulador e o outro, "ManipuladorGrupo5_teste" para a simulação e a criação da trajetória
 ----------
 __CÓDIGOS__
 
