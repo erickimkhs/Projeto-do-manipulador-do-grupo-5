@@ -1,6 +1,6 @@
 __ESTRUTURA__
 
-O repositório contém 2 códigos de python, um, "DinamicaManipulador", para a realização da dinâmica do nosso manipulador e o outro, "ManipuladorFinalGrupo5_versao_final" para a simulação e a criação da trajetória. Nota-se que o "ManipuladorFinalGrupo5_versao_final" está dentro do zip file "Entrega_Final" onde os meshes do CAD são necessários para rodar o programa
+O repositório contém 2 códigos de python, um, "DinamicaManipulador", para a realização da dinâmica do nosso manipulador e o outro, "ManipuladorFinalGrupo5_versao_final" para a simulação e a criação da trajetória. Nota-se que o "ManipuladorFinalGrupo5_versao_final" está dentro do zip file "Manipulador.rar" onde os meshes do CAD são necessários para rodar o programa
 ----------
 __CÓDIGOS__
 
